@@ -1,0 +1,29 @@
+---
+content_type: resource
+description: This mural was designed by women imprisoned at Riker's Island, a jail
+  in New York City, and was painted by the women's children on a wall in East Harlem.
+  In addition, the children designed a mural that the mothers then painted inside
+  a building at Rikers. Read more about the project, If Walls Could Talk. (Image courtesy
+  of Matt Green on Flickr. CC NC-BY-SA.)
+file: /courses/wgs-s10-reproductive-politics-in-the-united-states-spring-2013/f9aca97f4db4369de8f23202c7977ba7_wgs-s10s13-th.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: This mural was designed by women imprisoned at Riker's Island, a jail in
+    New York City, and was painted by the women's children on a wall in East Harlem.
+    In addition, the children designed a mural that the mothers then painted inside
+    a building at [Rikers](https://www.katieyamasaki.com/2010-2019/ifwallscouldtalk1).
+    Read more about the project, [If Walls Could Talk](http://www.kickstarter.com/projects/130957112/if-walls-could-talk).
+    (Image courtesy of [Matt Green](http://www.flickr.com/photos/48099890@N08/9474408517/in/photolist-frdPyZ)
+    on Flickr. CC NC-BY-SA.)
+  credit: Image courtesy of Matt Green on Flickr. CC NC-BY-SA.
+  image-alt: A photographA mural painted on a wall features a body of water in which
+    an African-American boy and a Caucasian girl stand.  The image of a woman surrounded
+    by children is next to them. of a pregnant woman, in a blue shirt, holds her belly.
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
+resourcetype: Image
+title: Mural designed by women imprisoned at Riker's Island
+uid: f9aca97f-4db4-369d-e8f2-3202c7977ba7
+---
+This mural was designed by women imprisoned at Riker's Island, a jail in New York City, and was painted by the women's children on a wall in East Harlem. In addition, the children designed a mural that the mothers then painted inside a building at Rikers. Read more about the project, If Walls Could Talk. (Image courtesy of Matt Green on Flickr. CC NC-BY-SA.)
